@@ -1,0 +1,16 @@
+{
+  "name": "desafio-fullstack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:KatyaKeila/desafio-fullstack.git",
+  "author": "<katyakeila@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  }
+}
